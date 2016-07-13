@@ -1,5 +1,4 @@
 # Fetch actual names of Github users from a list of usernames
-====================
 
 * To use the script, open the index.html file from a browser and choose a .csv file that contains a list of Github usernames.
 
